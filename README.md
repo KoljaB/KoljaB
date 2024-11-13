@@ -1,4 +1,4 @@
-I’m an independent consultant with deep expertise in real-time transcription and text-to-speech (TTS) solutions for AI applications.  
+I’m an independent consultant with deep expertise in real-time transcription and real-time text-to-speech (TTS) solutions for AI applications.  
 
 I help companies build scalable, high-performance, real-time AI applications. As the creator of RealtimeSTT, RealtimeTTS, and Linguflex, I bring practical insights and hands-on support for implementing advanced voice technologies.  
 
