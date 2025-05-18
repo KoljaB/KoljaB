@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Availability Update:** I am currently **fully booked with projects until at least the end of June 2025** and am unfortunately unable to accept new client engagements at this time. Thank you for your understanding!
+
 **I develop high-performance voice applications that run in real time, handle heavy workloads, and maintain stable, low-latency performance even at global scale.**  
 
 Many developers already rely on my open-source libraries (like [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT), [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) and [Linguflex](https://github.com/KoljaB/Linguflex)) for accurate, responsive transcription and text-to-speech.
