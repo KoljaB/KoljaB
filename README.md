@@ -1,23 +1,28 @@
-> [!NOTE]
-> **Availability Update:** I am currently **fully booked with projects until at least the end of June 2025** and am unfortunately unable to accept new client engagements at this time. Thank you for your understanding!
+# Hi there! 👋
 
-**I develop high-performance voice applications that run in real time, handle heavy workloads, and maintain stable, low-latency performance even at global scale.**  
+Welcome to my personal coding playground! I've been fascinated by real-time audio processing and voice technology for years - it's become a hobby of mine. This is where I tinker with ideas, experiment with new approaches, and share what I've learned along the way.
 
-Many developers already rely on my open-source libraries (like [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT), [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) and [Linguflex](https://github.com/KoljaB/Linguflex)) for accurate, responsive transcription and text-to-speech.
+## My Weekend Projects & Hobby Code
 
-**My services include:**
-- Setting up end-to-end real-time speech recognition and TTS pipelines for multi-user, low-latency environments.
-- Implementing GPU optimization, load balancing, and runtime configuration for scaling under heavy traffic.
-- Integrating various TTS engines (e.g. Coqui, StyleTTS2, Azure, ElevenLabs, ... ) and fine-tuning them for quality and speed.
-- Applying sophisticated audio chunking, compression, and sentence logic to improve transcription accuracy and responsiveness.
-- Enabling real-time streaming via browser-based clients with stable, continuous, and natural-sounding output.
-- Integrating voice activity detection (VAD), wake-word recognition, and other advanced speech features.
-- Incorporating large language models to support streaming tool-calling, contextual responses, and dynamic memory or RAG workflows.
-- Offering reliable backend infrastructure advice, including containerization and orchestration (e.g. Modal, Runpod, Kubernetes) for global-scale operations.
-- Providing guidance on tuning parameters to ensure optimal audio quality, stable performance, and minimal latency.
-- Advising on training data and model selection to achieve fast, robust, and context-aware results in speech and language tasks.
+Over the years, I've built these libraries in my spare time, mostly because I found the problems interesting to solve:
 
-If you’re looking for someone to implement or enhance voice features quickly, reliably, and at scale, you’re more than welcome to contact me at [kolja.beigel@web.de](mailto:kolja.beigel@web.de).
+- **[RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)** - Real-time speech-to-text transcription
+- **[RealtimeTTS](https://github.com/KoljaB/RealtimeTTS)** - Real-time text-to-speech synthesis
+- **[RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)** - Full audio pipeline with minimized latency
+
+## What Gets Me Excited In My Free Time
+
+- Tinkering with real-time audio processing - there's something satisfying about getting latency just right
+- Playing around with speech recognition and text-to-speech as a personal challenge
+- Learning about GPU acceleration through hands-on experimentation  
+- Contributing back to the community that has taught me so much
+- The joy of solving complex technical puzzles in my own time
+
+## Current Status
+
+I work on these projects whenever inspiration strikes and I have some time to spare. Always learning something new!
+
+*Code shared here reflects my personal interests and experiments. Feel free to use anything that might be helpful for your own projects.*
 
 <a href="https://github.com/KoljaB">
     <img src="https://github-stats-alpha.vercel.app/api?username=KoljaB&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
