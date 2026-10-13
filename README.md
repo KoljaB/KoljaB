@@ -1,6 +1,6 @@
 # Building real-time voice infrastructure for the agent age.
 
-Latency annoys me.
+Spending hours to save milliseconds.
 
 [**RealtimeSTT**](https://github.com/KoljaB/RealtimeSTT) · [**RealtimeTTS**](https://github.com/KoljaB/RealtimeTTS) · [**RealtimeVoiceChat**](https://github.com/KoljaB/RealtimeVoiceChat) · [**WhoSpeaksLive**](https://github.com/KoljaB/WhoSpeaksLive)
 
