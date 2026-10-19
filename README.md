@@ -2,6 +2,8 @@
 
 Spending hours to save milliseconds.
 
+"Can your 500 ms pipeline serve 30 users from my phone?" - Sure. Order 30 GPUs with it.
+
 [**RealtimeSTT**](https://github.com/KoljaB/RealtimeSTT) · [**RealtimeTTS**](https://github.com/KoljaB/RealtimeTTS) · [**RealtimeVoiceChat**](https://github.com/KoljaB/RealtimeVoiceChat) · [**WhoSpeaksLive**](https://github.com/KoljaB/WhoSpeaksLive)
 
 ### Paid work / consulting
